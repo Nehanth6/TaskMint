@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TaskMint — Student Academic Services Platform
 
 A modern, responsive web application for **TaskMint** built with React, Vite, and Tailwind CSS, faithfully matching the **Student Startup (Vibrant & Youthful)** visual reference.
@@ -44,3 +45,6 @@ npm run dev
 npm run build
 npm run preview
 ```
+=======
+# TaskMint
+>>>>>>> d0541da58e9ad59a6e86fcf36f3015f33e344b32
